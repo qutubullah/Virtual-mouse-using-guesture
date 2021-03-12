@@ -1,1 +1,1 @@
-# qutubullah
+Project on virtual mouse using open cv,wx
